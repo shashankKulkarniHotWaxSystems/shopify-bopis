@@ -1,6 +1,6 @@
 {
   "name": "shopify-bopis-app",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "HotWax Commerce shopify bopis app",
   "scripts": {
     "serve": "vue-cli-service serve",
