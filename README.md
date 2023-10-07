@@ -5,7 +5,7 @@ Shopify BOPIS PDP App
 
 ## Firebase Hosting
 
-We are using firebase hosting for the Pre-order app deployment
+We are using firebase hosting for the BOPIS app deployment
 Here are the steps to deploy app on firebase hosting
 
 ### Prerequisite
